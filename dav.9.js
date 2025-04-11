@@ -60,4 +60,4 @@ let Person={
 let number2=1
 for(i=1;i<=34;i++){
 number2+=i
-}console.log(number2)    
+}console.log(number2)   
